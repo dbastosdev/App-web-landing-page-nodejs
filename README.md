@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
- <img src="https://github.com/dbastosdev/Portfolio-landing-page-nodejs/blob/main/src/landing-page.gif" />
+ <img src="https://github.com/dbastosdev/Portfolio-landing-page-nodejs/blob/main/landing-page.gif" />
 </p>
 
 <p align="center">
