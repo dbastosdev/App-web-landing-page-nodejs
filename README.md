@@ -13,27 +13,34 @@
 
 <p align="center">
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="PRs welcome!" />
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="PRs welcome!" />
- <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" alt="PRs welcome!" />
+ <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 <p align="center">
  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <a id="Resources"></a>
-## Resources
+## Recursos
 
-- [x] Get updated sinapi links;
-- [x] Recive links for email. 
+- [x] Cadastro de e-mails de leads;
+- [x] Área administrativa;
+- [x] Gráficos com exibição de dias com maior número de cadastros;
+- [x] Criação de grupos para envio de e-mails;
+- [x] Envio de e-mails para grupos;
+- [x] Edição e exclusão de contatos de lista de e-mail;
+- [x] Simples integração com gmail.
 
 <a id="Requisites"></a>
-## Prerequisites
+## Pré-equisites
 
-Before use this cli app, you need in your computer:
+Antes de usar esse app, você precisa ter instalado em seu computador:
 
-- Git
-- Node.Js v14 or later
-- NPM 
+- Git;
+- Node.Js;
+- NPM;
+- MySQL; 
 
 <a id="Run"></a>
 ## Run sinapi-bot app
