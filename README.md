@@ -43,23 +43,49 @@ Antes de usar esse app, você precisa ter instalado em seu computador:
 - MySQL; 
 
 <a id="Run"></a>
-## Run sinapi-bot app
+## Configurações e uso do app Landing Page
+
+Baixe e instale as dependências do projeto: 
 
 ```bash
-# Clone this repo
-$ git clone https://github.com/dbastosdev/sinapi-bot.git
+# Clone este repositório através do seu terminal
+$ git clone https://github.com/dbastosdev/Portfolio-landing-page-nodejs.git
 
-# Config the bot-scrap.js with the link for scrap if you need use a different link. Its set for RJ;
-# Config e-mail smtp. See more details in https://nodemailer.com/usage/using-gmail/
+# Acesse e abra o repositório em seu ambiente
+$ cd Portfolio-landing-page-nodejs
 
-# Access and open the sinapi-bot folder
-$ cd sinapi-bot
-
-# Install dependencies
+# Instale as dependências do projeto
 $ npm install
-
-# Execute this application
-$ node bot-mail.js
 ```
+Configure as tabelas do banco de dados via terminal, workbench ou outro gerenciador de sua preferência: 
+
+```sql
+/* 
+Tabela de usuários: 
+*/
+
+CREATE TABLE `usuarios`.`new_table` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `nome` VARCHAR(45) NULL,
+  `email` VARCHAR(45) NOT NULL,
+  `senha` VARCHAR(45) NOT NULL,
+  `` VARCHAR(45) NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE INDEX `email_UNIQUE` (`email` ASC) VISIBLE);
+  
+/* 
+Tabela de clientes
+*/
+
+```
+Configure o arquivo bd.js em dentro de src > database. 
+
+Execute via terminal o projeto: 
+
+```bash
+# Execute o projeto
+$ npm start
+```
+Acesse: http://localhost:1234 
 
 Coded with much ☕ by <a href="https://github.com/dbastosdev">dbastos.dev</a> 
