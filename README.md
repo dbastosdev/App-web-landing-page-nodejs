@@ -6,16 +6,6 @@
 </h3>
 
 <p align="center">
- <img src="https://github.com/dbastosdev/Portfolio-landing-page-nodejs/blob/main/landing-page.gif" />
-</p>
-
-<p align="center" width="300">
- <img src="https://github.com/dbastosdev/Portfolio-landing-page-nodejs/blob/main/landing-grafico.png" />
-</p>
-
-
-
-<p align="center">
   <a href="#Resources">Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#Requisites">Pré-requisitos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#Run">Configurações</a>&nbsp;&nbsp;&nbsp;
@@ -27,8 +17,19 @@
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="PRs welcome!" />
  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
+
 <p align="center">
  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<p align="center">
+ <img src="https://github.com/dbastosdev/Portfolio-landing-page-nodejs/blob/main/landing-page.gif" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/dbastosdev/Portfolio-landing-page-nodejs/blob/main/landing.png" width="400"/>
+ <img src="https://github.com/dbastosdev/Portfolio-landing-page-nodejs/blob/main/landing-grafico.png" width="425"/>
 </p>
 
 <a id="Resources"></a>
