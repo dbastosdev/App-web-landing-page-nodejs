@@ -66,16 +66,24 @@ Tabela de usuários:
 
 CREATE TABLE `usuarios`.`new_table` (
   `id` INT NOT NULL AUTO_INCREMENT,
-  `nome` VARCHAR(45) NULL,
+  `nome` VARCHAR(100) NULL,
   `email` VARCHAR(45) NOT NULL,
   `senha` VARCHAR(45) NOT NULL,
-  `` VARCHAR(45) NULL,
   PRIMARY KEY (`id`),
   UNIQUE INDEX `email_UNIQUE` (`email` ASC) VISIBLE);
   
 /* 
 Tabela de clientes
 */
+
+CREATE TABLE `clientes`.`new_table` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `nome` VARCHAR(100) NULL,
+  `email` VARCHAR(45) NOT NULL,
+  `grupo` VARCHAR(45) NOT NULL,
+   `data` VARCHAR(45) NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE INDEX `email_UNIQUE` (`email` ASC) VISIBLE);
 
 ```
 Configure o arquivo bd.js em dentro de src > database. 
