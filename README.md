@@ -6,6 +6,10 @@
 </h3>
 
 <p align="center">
+ <img src="https://github.com/dbastosdev/Portfolio-landing-page-nodejs/blob/main/src/landing-page.gif" />
+</p>
+
+<p align="center">
   <a href="#Resources">Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#Requisites">Pré-requisitos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#Run">Configurações</a>&nbsp;&nbsp;&nbsp;
