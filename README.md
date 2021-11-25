@@ -2,7 +2,7 @@
 # Portfolio: Landing page com Node.js
 
 <h3 align="center">
-  Projeto de Landing page, com área administrativa, para gestão e envio de e-mails feito com Node.Js
+  Projeto de Landing page, com área administrativa, para gestão e envio de e-mails feito com Node.Js no padrão MVC
 </h3>
 
 <p align="center">
