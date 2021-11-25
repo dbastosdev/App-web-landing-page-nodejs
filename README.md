@@ -25,7 +25,7 @@
 ## Recursos
 
 - [x] Cadastro de e-mails de leads;
-- [x] Área administrativa;
+- [x] Área administrativa acessível apenas por login e senha;
 - [x] Gráficos com exibição de dias com maior número de cadastros;
 - [x] Criação de grupos para envio de e-mails;
 - [x] Envio de e-mails para grupos;
