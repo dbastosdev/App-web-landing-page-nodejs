@@ -9,6 +9,12 @@
  <img src="https://github.com/dbastosdev/Portfolio-landing-page-nodejs/blob/main/landing-page.gif" />
 </p>
 
+<p align="center" width="300">
+ <img src="https://github.com/dbastosdev/Portfolio-landing-page-nodejs/blob/main/landing-grafico.png" />
+</p>
+
+
+
 <p align="center">
   <a href="#Resources">Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#Requisites">Pré-requisitos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
