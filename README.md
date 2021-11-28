@@ -75,6 +75,8 @@ Configure as tabelas do banco de dados via terminal, workbench ou outro gerencia
 Tabela de usuários: 
 */
 
+/* Importante: Não implementei o sistema de cadastro, os usuários administradores do sistema devem ser cadastrados diretamente no banco de dados da aplicação. */
+
 CREATE TABLE `usuarios`.`new_table` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `nome` VARCHAR(100) NULL,
